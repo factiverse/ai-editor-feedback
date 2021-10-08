@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: "\U0001F4A1 Feature request"
+about: "Suggest a new idea"
 title: ''
 labels: 'Type: Enhancement'
 assignees: ''

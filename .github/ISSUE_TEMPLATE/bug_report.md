@@ -1,14 +1,16 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: "\U0001F41E Bug report"
+about: "If something isn't working as expected."
 title: ''
 labels: 'Type: Bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Bug Report
+
+**Current behavior**
+A clear and concise description of the behaviour.
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -19,6 +21,9 @@ Steps to reproduce the behavior:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
+
+**Possible Solution**
+<!--- Only if you have suggestions on a fix for the bug -->
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.

@@ -1,10 +1,10 @@
 ---
-name: Question
-about: Question related to the AI Editor
+name: "\U0001F4AC Question"
+about: "Clear something up"
 title: ''
 labels: 'Type: Question'
 assignees: ''
 
 ---
 
-**What would you like to know?**
+**What's your question?**
